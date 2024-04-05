@@ -1,2 +1,3 @@
 Ethan Ruark
-1250 
+1250
+NIN 
