@@ -1,2 +1,1 @@
-Ethan Ruark
-1250 
+Ethan Ruark 
