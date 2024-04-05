@@ -1,1 +1,2 @@
-"Ethan Ruark" 
+Ethan Ruark
+1250 
